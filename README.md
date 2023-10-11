@@ -40,10 +40,8 @@ Feel free to explore my GitHub repositories, though it's not updated remotely en
 
 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/jhklarcher/).
 
-Find out more about my experiences and education by clicking below:
-
 <details>
-<summary>Click to expand!</summary>
+<summary>Find out more about my experiences and education by clicking here:</summary>
 
 ## 🎓 Academic Education
 
