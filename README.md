@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 # 👋 Hello, I'm José Henrique
 
-I'm a Data Analyst with a passion for machine learning and time series forecasting. Here's a quick look at my journey so far:
+I'm a Data Analyst and realy enjoy anything related to coding, linux, data, machine learning, and time series forecasting. Here's a quick look about me:
 
 ## 🔧 Current Skillset
 
@@ -36,7 +36,7 @@ I'm a Data Analyst with a passion for machine learning and time series forecasti
 
 ## 📚 More About Me
 
-Feel free to explore my GitHub repositories to see my work in action. Don't hesitate to reach out if you'd like to collaborate or chat about data, machine learning, or anything tech-related!
+Feel free to explore my GitHub repositories, though it's not updated remotely enough. Don't hesitate to reach out if you'd like to collaborate or chat about data, machine learning, or anything tech-related!
 
 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/jhklarcher/).
 
