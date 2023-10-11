@@ -41,7 +41,7 @@ Feel free to explore my GitHub repositories, though it's not updated remotely en
 📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/jhlarcher/).
 
 <details>
-<summary>**Find out more about my experiences and education by clicking here.**</summary>
+<summary><b>Find out more about my experiences and education by clicking here.</b></summary>
 
 ## 🎓 Academic Education
 
