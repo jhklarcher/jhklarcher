@@ -38,7 +38,7 @@ I'm a Data Analyst and realy enjoy anything related to coding, linux, data, mach
 
 Feel free to explore my GitHub repositories, though it's not updated remotely enough. Don't hesitate to reach out if you'd like to collaborate or chat about data, machine learning, or anything tech-related!
 
-📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/jhklarcher/).
+📫 You can contact me on [LinkedIn](https://www.linkedin.com/in/jhlarcher/).
 
 <details>
 <summary>Find out more about my experiences and education by clicking here.</summary>
